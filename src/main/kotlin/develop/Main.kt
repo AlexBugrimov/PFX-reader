@@ -1,9 +1,9 @@
 package develop
 
 
-import develop.SecurityUtil.Companion.aliases
-import develop.SecurityUtil.Companion.keyPair
-import develop.SecurityUtil.Companion.loadKeyStore
+import develop.SecurityTool.Companion.aliases
+import develop.SecurityTool.Companion.keyPair
+import develop.SecurityTool.Companion.loadKeyStore
 import java.io.File
 import java.net.URL
 

@@ -7,7 +7,7 @@ import java.security.*
 import java.security.cert.CertificateException
 
 
-class SecurityUtil {
+class SecurityTool {
 
     companion object {
 
